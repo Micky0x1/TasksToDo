@@ -1,0 +1,8 @@
+dow Mon Daily pill, Homework, Youtube, Learn, Books reading,
+dow Tue Daily pill, Homework, Work on projects
+dow Wed Daily pill, Books reading, New technology, Homework, Learn
+dow Thu Daily pill, Homework, Learn
+dow Fri Daily pill, Youtube, Leetcode
+dow Sat Daily pill, Homework, Youtube, Leetcode, Learn, Books reading
+dow Sun Daily pill, New technology, Leetcode, Youtube, Learn
+doe Mar 21 2022 Birthday
